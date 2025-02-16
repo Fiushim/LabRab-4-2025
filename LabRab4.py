@@ -92,7 +92,6 @@ class CargoAircraft(Aircraft):
 
 
 if __name__ == "__main__":
-    # Пример использования классов
     passenger_plane = PassengerAircraft(
         model="Superjet 100",
         manufacturer="Sukhoi",
